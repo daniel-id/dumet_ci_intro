@@ -1,0 +1,10 @@
+Autoload: mengaktifkan library/class
+Database: menghubungkan server mysql
+Routes: memanipulasi url/link
+
+
+baseurl/controller/method
+http://localhost/codeigniter/welcome/index
+
+
+cart=> keranjang-belanja
